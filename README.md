@@ -12,10 +12,10 @@ format data and do a full wipe on the system (cache, dalvik, system, data, inter
 after flash the rom like any other.
 reboot and enjoy
 
-#link
+# link
 https://www.mediafire.com/file/07n6b30klz8yy2d/Projet_NightmareV2a.zip/file
 
-#credits
+# credits
 made by the telegram user @homecharlytg
 banner by @Vexed2623
 kernel by @ace2nutzer
